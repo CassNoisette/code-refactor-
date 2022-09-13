@@ -27,8 +27,10 @@ The following steps demonstrate the process:
 
 MIT license
 
-## Screenshots
+## Screenshot
 
-[Website Link](file:///Users/cassie/bootcamp/code-refactor-/index.html)
+![Website](./assets/images/website.png)
 
-![Hero-image](file:///Users/cassie/bootcamp/code-refactor-/index.html)
+## Website Link
+
+file:///Users/cassie/bootcamp/code-refactor-/index.html
